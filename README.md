@@ -2,6 +2,8 @@
 
 A quick and dirty tool to convert from a Strava archive to a custom logbook format.
 
+[![Sample output in a video](https://github.com/ringtailsoftware/strava2logbook/raw/refs/heads/main/demo/logbook.mov)]([https://youtu.be/vt5fpE0bzSY](https://github.com/ringtailsoftware/strava2logbook/raw/refs/heads/main/demo/logbook.mov))
+
 This tool:
 
  - Extracts just "Kayaking" events (see `main.js` to change the activity type)
